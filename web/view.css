@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.my-navbar{
+    width: 100%;
+    padding-top: 10px;
+}
+
+.content, .my-navbar{
+    margin: 0 10%;
+}
+
+table{
+    width: 100%;
+    margin: 3%;
+}
+
+th, td{
+    padding: 0.5% 0;
+}
